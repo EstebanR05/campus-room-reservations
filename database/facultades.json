@@ -1,0 +1,37 @@
+[
+  {
+    "_id": {
+      "$oid": "665000000000000000000001"
+    },
+    "nombre": "Ingeniería",
+    "descripcion": "Facultad de Ingeniería y Ciencias Básicas"
+  },
+  {
+    "_id": {
+      "$oid": "665000000000000000000002"
+    },
+    "nombre": "Ciencias Administrativas",
+    "descripcion": "Facultad de administración, economía y negocios"
+  },
+  {
+    "_id": {
+      "$oid": "665000000000000000000003"
+    },
+    "nombre": "Comunicación y Ciencias Sociales",
+    "descripcion": "Facultad enfocada en comunicación, medios y sociedad"
+  },
+  {
+    "_id": {
+      "$oid": "665000000000000000000004"
+    },
+    "nombre": "Humanidades y Artes",
+    "descripcion": "Facultad de formación humanística, cultural y artística"
+  },
+  {
+    "_id": {
+      "$oid": "665000000000000000000005"
+    },
+    "nombre": "Ciencias de la Salud",
+    "descripcion": "Facultad orientada a programas de salud y bienestar"
+  }
+]

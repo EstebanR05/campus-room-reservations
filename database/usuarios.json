@@ -1,0 +1,197 @@
+[
+  {
+    "_id": {
+      "$oid": "665100000000000000000001"
+    },
+    "codigoUsuario": "USR-001",
+    "nombreCompleto": "Carlos Medina",
+    "email": "carlos.medina@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000001"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000002"
+    },
+    "codigoUsuario": "USR-002",
+    "nombreCompleto": "Ana Torres",
+    "email": "ana.torres@universidad.edu",
+    "rol": "Docente",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000002"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000003"
+    },
+    "codigoUsuario": "USR-003",
+    "nombreCompleto": "Laura Rojas",
+    "email": "laura.rojas@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000003"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000004"
+    },
+    "codigoUsuario": "USR-004",
+    "nombreCompleto": "Miguel Herrera",
+    "email": "miguel.herrera@universidad.edu",
+    "rol": "Docente",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000004"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000005"
+    },
+    "codigoUsuario": "USR-005",
+    "nombreCompleto": "Sofia Castillo",
+    "email": "sofia.castillo@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000005"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000006"
+    },
+    "codigoUsuario": "USR-006",
+    "nombreCompleto": "Pedro Ramirez",
+    "email": "pedro.ramirez@universidad.edu",
+    "rol": "Docente",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000001"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000007"
+    },
+    "codigoUsuario": "USR-007",
+    "nombreCompleto": "Valentina Gomez",
+    "email": "valentina.gomez@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Inactivo",
+    "idFacultad": {
+      "$oid": "665000000000000000000002"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000008"
+    },
+    "codigoUsuario": "USR-008",
+    "nombreCompleto": "Daniel Salazar",
+    "email": "daniel.salazar@universidad.edu",
+    "rol": "Docente",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000003"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000009"
+    },
+    "codigoUsuario": "USR-009",
+    "nombreCompleto": "Camila Ortega",
+    "email": "camila.ortega@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000004"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000010"
+    },
+    "codigoUsuario": "USR-010",
+    "nombreCompleto": "Julian Pardo",
+    "email": "julian.pardo@universidad.edu",
+    "rol": "Docente",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000005"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000011"
+    },
+    "codigoUsuario": "USR-011",
+    "nombreCompleto": "Martha Delgado",
+    "email": "martha.delgado@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000001"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000012"
+    },
+    "codigoUsuario": "USR-012",
+    "nombreCompleto": "Andres Vargas",
+    "email": "andres.vargas@universidad.edu",
+    "rol": "Docente",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000002"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000013"
+    },
+    "codigoUsuario": "USR-013",
+    "nombreCompleto": "Natalia Ruiz",
+    "email": "natalia.ruiz@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000003"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000014"
+    },
+    "codigoUsuario": "USR-014",
+    "nombreCompleto": "Felipe Moreno",
+    "email": "felipe.moreno@universidad.edu",
+    "rol": "Docente",
+    "estado": "Inactivo",
+    "idFacultad": {
+      "$oid": "665000000000000000000004"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665100000000000000000015"
+    },
+    "codigoUsuario": "USR-015",
+    "nombreCompleto": "Diana Acosta",
+    "email": "diana.acosta@universidad.edu",
+    "rol": "Secretaria",
+    "estado": "Activo",
+    "idFacultad": {
+      "$oid": "665000000000000000000005"
+    }
+  }
+]

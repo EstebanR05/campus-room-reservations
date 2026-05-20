@@ -1,0 +1,242 @@
+[
+  {
+    "_id": {
+      "$oid": "665200000000000000000001"
+    },
+    "codigoSala": "S001",
+    "nombre": "Sala de Reuniones 1",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000001"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R001",
+        "tipo": "Proyector",
+        "nombre": "Proyector Epson HD"
+      },
+      {
+        "numRecurso": "R002",
+        "tipo": "Mesa",
+        "nombre": "Mesa de reuniones"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000002"
+    },
+    "codigoSala": "S002",
+    "nombre": "Sala de Reuniones 2",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000002"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R003",
+        "tipo": "Televisor",
+        "nombre": "TV 55 pulgadas"
+      },
+      {
+        "numRecurso": "R004",
+        "tipo": "Mesa",
+        "nombre": "Mesa modular"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000003"
+    },
+    "codigoSala": "S003",
+    "nombre": "Sala de Reuniones 3",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000003"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R005",
+        "tipo": "Otro",
+        "nombre": "Tablero acrílico"
+      },
+      {
+        "numRecurso": "R006",
+        "tipo": "Proyector",
+        "nombre": "Proyector portátil"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000004"
+    },
+    "codigoSala": "S004",
+    "nombre": "Sala de Reuniones 4",
+    "estado": "Deshabilitada",
+    "observaciones": "Sala temporalmente fuera de servicio",
+    "idFacultad": {
+      "$oid": "665000000000000000000004"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R001",
+        "tipo": "Proyector",
+        "nombre": "Proyector Epson HD"
+      },
+      {
+        "numRecurso": "R002",
+        "tipo": "Mesa",
+        "nombre": "Mesa de reuniones"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000005"
+    },
+    "codigoSala": "S005",
+    "nombre": "Sala de Reuniones 5",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000005"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R003",
+        "tipo": "Televisor",
+        "nombre": "TV 55 pulgadas"
+      },
+      {
+        "numRecurso": "R004",
+        "tipo": "Mesa",
+        "nombre": "Mesa modular"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000006"
+    },
+    "codigoSala": "S006",
+    "nombre": "Sala de Reuniones 6",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000001"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R005",
+        "tipo": "Otro",
+        "nombre": "Tablero acrílico"
+      },
+      {
+        "numRecurso": "R006",
+        "tipo": "Proyector",
+        "nombre": "Proyector portátil"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000007"
+    },
+    "codigoSala": "S007",
+    "nombre": "Sala de Reuniones 7",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000002"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R001",
+        "tipo": "Proyector",
+        "nombre": "Proyector Epson HD"
+      },
+      {
+        "numRecurso": "R002",
+        "tipo": "Mesa",
+        "nombre": "Mesa de reuniones"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000008"
+    },
+    "codigoSala": "S008",
+    "nombre": "Sala de Reuniones 8",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000003"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R003",
+        "tipo": "Televisor",
+        "nombre": "TV 55 pulgadas"
+      },
+      {
+        "numRecurso": "R004",
+        "tipo": "Mesa",
+        "nombre": "Mesa modular"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000009"
+    },
+    "codigoSala": "S009",
+    "nombre": "Sala de Reuniones 9",
+    "estado": "Deshabilitada",
+    "observaciones": "Sala temporalmente fuera de servicio",
+    "idFacultad": {
+      "$oid": "665000000000000000000004"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R005",
+        "tipo": "Otro",
+        "nombre": "Tablero acrílico"
+      },
+      {
+        "numRecurso": "R006",
+        "tipo": "Proyector",
+        "nombre": "Proyector portátil"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "665200000000000000000010"
+    },
+    "codigoSala": "S010",
+    "nombre": "Sala de Reuniones 10",
+    "estado": "Habilitada",
+    "observaciones": "Sala disponible para reuniones académicas y administrativas",
+    "idFacultad": {
+      "$oid": "665000000000000000000005"
+    },
+    "recursos": [
+      {
+        "numRecurso": "R001",
+        "tipo": "Proyector",
+        "nombre": "Proyector Epson HD"
+      },
+      {
+        "numRecurso": "R002",
+        "tipo": "Mesa",
+        "nombre": "Mesa de reuniones"
+      }
+    ]
+  }
+]

@@ -1,0 +1,833 @@
+[
+  {
+    "_id": {
+      "$oid": "665300000000000000000001"
+    },
+    "fechaInicio": "2026-05-01T09:00:00Z",
+    "fechaFin": "2026-05-01T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #1",
+    "fechaCreacion": "2026-04-24T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000001"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000001"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000002"
+    },
+    "fechaInicio": "2026-05-01T11:00:00Z",
+    "fechaFin": "2026-05-01T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #2",
+    "fechaCreacion": "2026-04-23T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000002"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000007"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000003"
+    },
+    "fechaInicio": "2026-05-01T13:00:00Z",
+    "fechaFin": "2026-05-01T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #3",
+    "fechaCreacion": "2026-04-29T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000003"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000013"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000004"
+    },
+    "fechaInicio": "2026-05-02T15:00:00Z",
+    "fechaFin": "2026-05-02T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #4",
+    "fechaCreacion": "2026-05-01T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000004"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000004"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000004"
+      },
+      "fecha": "2026-05-02T11:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000005"
+    },
+    "fechaInicio": "2026-05-02T17:00:00Z",
+    "fechaFin": "2026-05-02T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #5",
+    "fechaCreacion": "2026-04-27T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000005"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000010"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000006"
+    },
+    "fechaInicio": "2026-05-02T07:00:00Z",
+    "fechaFin": "2026-05-02T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #6",
+    "fechaCreacion": "2026-05-01T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000006"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000011"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000007"
+    },
+    "fechaInicio": "2026-05-03T09:00:00Z",
+    "fechaFin": "2026-05-03T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #7",
+    "fechaCreacion": "2026-04-25T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000007"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000002"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000008"
+    },
+    "fechaInicio": "2026-05-03T11:00:00Z",
+    "fechaFin": "2026-05-03T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #8",
+    "fechaCreacion": "2026-04-29T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000008"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000008"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000008"
+      },
+      "fecha": "2026-05-03T07:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000009"
+    },
+    "fechaInicio": "2026-05-03T13:00:00Z",
+    "fechaFin": "2026-05-03T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #9",
+    "fechaCreacion": "2026-04-26T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000009"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000014"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000010"
+    },
+    "fechaInicio": "2026-05-04T15:00:00Z",
+    "fechaFin": "2026-05-04T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #10",
+    "fechaCreacion": "2026-04-26T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000010"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000005"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000011"
+    },
+    "fechaInicio": "2026-05-04T17:00:00Z",
+    "fechaFin": "2026-05-04T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #11",
+    "fechaCreacion": "2026-05-03T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000001"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000006"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000012"
+    },
+    "fechaInicio": "2026-05-04T07:00:00Z",
+    "fechaFin": "2026-05-04T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #12",
+    "fechaCreacion": "2026-05-01T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000002"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000012"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000012"
+      },
+      "fecha": "2026-05-04T03:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000013"
+    },
+    "fechaInicio": "2026-05-05T09:00:00Z",
+    "fechaFin": "2026-05-05T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #13",
+    "fechaCreacion": "2026-05-04T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000003"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000003"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000014"
+    },
+    "fechaInicio": "2026-05-05T11:00:00Z",
+    "fechaFin": "2026-05-05T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #14",
+    "fechaCreacion": "2026-04-30T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000004"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000009"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000015"
+    },
+    "fechaInicio": "2026-05-05T13:00:00Z",
+    "fechaFin": "2026-05-05T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #15",
+    "fechaCreacion": "2026-04-27T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000005"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000015"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000016"
+    },
+    "fechaInicio": "2026-05-06T15:00:00Z",
+    "fechaFin": "2026-05-06T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #16",
+    "fechaCreacion": "2026-05-01T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000006"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000001"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000001"
+      },
+      "fecha": "2026-05-06T11:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000017"
+    },
+    "fechaInicio": "2026-05-06T17:00:00Z",
+    "fechaFin": "2026-05-06T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #17",
+    "fechaCreacion": "2026-05-02T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000007"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000007"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000018"
+    },
+    "fechaInicio": "2026-05-06T07:00:00Z",
+    "fechaFin": "2026-05-06T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #18",
+    "fechaCreacion": "2026-05-04T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000008"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000013"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000019"
+    },
+    "fechaInicio": "2026-05-07T09:00:00Z",
+    "fechaFin": "2026-05-07T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #19",
+    "fechaCreacion": "2026-05-03T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000009"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000004"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000020"
+    },
+    "fechaInicio": "2026-05-07T11:00:00Z",
+    "fechaFin": "2026-05-07T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #20",
+    "fechaCreacion": "2026-05-04T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000010"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000010"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000010"
+      },
+      "fecha": "2026-05-07T07:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000021"
+    },
+    "fechaInicio": "2026-05-07T13:00:00Z",
+    "fechaFin": "2026-05-07T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #21",
+    "fechaCreacion": "2026-05-03T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000001"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000011"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000022"
+    },
+    "fechaInicio": "2026-05-08T15:00:00Z",
+    "fechaFin": "2026-05-08T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #22",
+    "fechaCreacion": "2026-05-04T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000002"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000002"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000023"
+    },
+    "fechaInicio": "2026-05-08T17:00:00Z",
+    "fechaFin": "2026-05-08T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #23",
+    "fechaCreacion": "2026-05-01T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000003"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000008"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000024"
+    },
+    "fechaInicio": "2026-05-08T07:00:00Z",
+    "fechaFin": "2026-05-08T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #24",
+    "fechaCreacion": "2026-05-04T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000004"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000014"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000014"
+      },
+      "fecha": "2026-05-08T03:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000025"
+    },
+    "fechaInicio": "2026-05-09T09:00:00Z",
+    "fechaFin": "2026-05-09T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #25",
+    "fechaCreacion": "2026-05-04T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000005"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000005"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000026"
+    },
+    "fechaInicio": "2026-05-09T11:00:00Z",
+    "fechaFin": "2026-05-09T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #26",
+    "fechaCreacion": "2026-05-01T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000006"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000006"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000027"
+    },
+    "fechaInicio": "2026-05-09T13:00:00Z",
+    "fechaFin": "2026-05-09T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #27",
+    "fechaCreacion": "2026-05-05T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000007"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000012"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000028"
+    },
+    "fechaInicio": "2026-05-10T15:00:00Z",
+    "fechaFin": "2026-05-10T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #28",
+    "fechaCreacion": "2026-05-04T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000008"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000003"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000003"
+      },
+      "fecha": "2026-05-10T11:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000029"
+    },
+    "fechaInicio": "2026-05-10T17:00:00Z",
+    "fechaFin": "2026-05-10T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #29",
+    "fechaCreacion": "2026-05-09T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000009"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000009"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000030"
+    },
+    "fechaInicio": "2026-05-10T07:00:00Z",
+    "fechaFin": "2026-05-10T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #30",
+    "fechaCreacion": "2026-05-04T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000010"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000015"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000031"
+    },
+    "fechaInicio": "2026-05-11T09:00:00Z",
+    "fechaFin": "2026-05-11T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #31",
+    "fechaCreacion": "2026-05-04T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000001"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000001"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000032"
+    },
+    "fechaInicio": "2026-05-11T11:00:00Z",
+    "fechaFin": "2026-05-11T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #32",
+    "fechaCreacion": "2026-05-05T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000002"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000007"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000007"
+      },
+      "fecha": "2026-05-11T07:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000033"
+    },
+    "fechaInicio": "2026-05-11T13:00:00Z",
+    "fechaFin": "2026-05-11T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #33",
+    "fechaCreacion": "2026-05-07T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000003"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000013"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000034"
+    },
+    "fechaInicio": "2026-05-12T15:00:00Z",
+    "fechaFin": "2026-05-12T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #34",
+    "fechaCreacion": "2026-05-05T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000004"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000004"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000035"
+    },
+    "fechaInicio": "2026-05-12T17:00:00Z",
+    "fechaFin": "2026-05-12T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #35",
+    "fechaCreacion": "2026-05-11T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000005"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000010"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000036"
+    },
+    "fechaInicio": "2026-05-12T07:00:00Z",
+    "fechaFin": "2026-05-12T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #36",
+    "fechaCreacion": "2026-05-07T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000006"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000011"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000011"
+      },
+      "fecha": "2026-05-12T03:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000037"
+    },
+    "fechaInicio": "2026-05-13T09:00:00Z",
+    "fechaFin": "2026-05-13T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #37",
+    "fechaCreacion": "2026-05-06T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000007"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000002"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000038"
+    },
+    "fechaInicio": "2026-05-13T11:00:00Z",
+    "fechaFin": "2026-05-13T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #38",
+    "fechaCreacion": "2026-05-08T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000008"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000008"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000039"
+    },
+    "fechaInicio": "2026-05-13T13:00:00Z",
+    "fechaFin": "2026-05-13T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #39",
+    "fechaCreacion": "2026-05-06T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000009"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000014"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000040"
+    },
+    "fechaInicio": "2026-05-14T15:00:00Z",
+    "fechaFin": "2026-05-14T17:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #40",
+    "fechaCreacion": "2026-05-10T15:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000010"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000005"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000005"
+      },
+      "fecha": "2026-05-14T11:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000041"
+    },
+    "fechaInicio": "2026-05-14T17:00:00Z",
+    "fechaFin": "2026-05-14T20:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #41",
+    "fechaCreacion": "2026-05-09T17:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000001"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000006"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000042"
+    },
+    "fechaInicio": "2026-05-14T07:00:00Z",
+    "fechaFin": "2026-05-14T08:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #42",
+    "fechaCreacion": "2026-05-12T07:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000002"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000012"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000043"
+    },
+    "fechaInicio": "2026-05-15T09:00:00Z",
+    "fechaFin": "2026-05-15T11:00:00Z",
+    "estado": "Cancelada",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #43",
+    "fechaCreacion": "2026-05-10T09:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000003"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000003"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000044"
+    },
+    "fechaInicio": "2026-05-15T11:00:00Z",
+    "fechaFin": "2026-05-15T14:00:00Z",
+    "estado": "Ajustada",
+    "tipoEvento": "Academica",
+    "descripcion": "Reserva para comité administrativo #44",
+    "fechaCreacion": "2026-05-08T11:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000004"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000009"
+    },
+    "ultimaModificacion": {
+      "idUsuarioResponsable": {
+        "$oid": "665100000000000000000009"
+      },
+      "fecha": "2026-05-15T07:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "665300000000000000000045"
+    },
+    "fechaInicio": "2026-05-15T13:00:00Z",
+    "fechaFin": "2026-05-15T14:00:00Z",
+    "estado": "Activa",
+    "tipoEvento": "Administrativa",
+    "descripcion": "Reserva para reunión académica #45",
+    "fechaCreacion": "2026-05-12T13:00:00Z",
+    "idSala": {
+      "$oid": "665200000000000000000005"
+    },
+    "idUsuario": {
+      "$oid": "665100000000000000000015"
+    }
+  }
+]
