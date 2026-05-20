@@ -11,7 +11,7 @@ API REST en Python para el sistema de reservas de salas por facultad.
 ## Ejecutar
 
 ```bash
-cd /home/estebanr/projects/campus-room-reservations/backend
+cd /campus-room-reservations/backend
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
